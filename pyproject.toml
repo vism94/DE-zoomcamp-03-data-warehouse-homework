@@ -1,0 +1,10 @@
+[project]
+name = "de-zoomcamp-03-data-warehouse-homework"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-cloud-storage>=2.0.0",
+    "jupyter>=1.1.1",
+]
